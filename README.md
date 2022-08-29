@@ -2,7 +2,7 @@
 
 It's a tiniest Node.js server that listens to a request to trigger an arbitrary command. It uses built in packages only and requires not even a single package to download!
 
-This script is written with porpose to be useful to put up a server that listens to webhook call and trigger deployment (for example, `docker pull && docker up`) but you can use it for any kind of purpose. :)
+This script is written for the purpose to be useful to put up a server that listens to webhook call and trigger the deployment (for example, `docker pull && docker up`) but you can use it for any kind of purpose. :)
 
 # How to use?
 
